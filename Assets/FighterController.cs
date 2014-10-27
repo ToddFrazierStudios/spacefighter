@@ -22,7 +22,7 @@ public class FighterController : MonoBehaviour {
 	void FixedUpdate () {
 		Debug.Log(Input.GetAxis ("Horizontal"));
 		//Debug.Log(Input.GetAxis ("Vertical"));
-		if (Input.GetKey(KeyCode.LeftShift) || Input.GetAxis ("Jump") != 0) {
+		if (Input.GetKey(KeyCode.LeftShift) || Input.GetAxis ("Fire2") != 0) {
 			mainThrust.AddRelativeForce(Vector3.forward * mainPower);
 		}
 		if (Input.GetKey(KeyCode.D)) {
