@@ -1,9 +1,10 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/FighterController.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Radar/Radar.js">
     <Files>
-      <File FileName="Assets/FighterController.cs" Line="24" Column="5" />
-      <File FileName="../RodPacers/Assets/Scripts/Engines/TestEngineController.cs" Line="18" Column="39" />
+      <File FileName="Assets/FighterController.cs" Line="25" Column="63" />
+      <File FileName="../RodPacers/Assets/Scripts/Engines/TestEngineController.cs" Line="1" Column="1" />
+      <File FileName="Assets/Radar/Radar.js" Line="92" Column="9" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
